@@ -58,7 +58,7 @@ Darkify is a large server with thousands of members, yet they’re:
 ## 📂 Leaked Source Code
 
 You can view the full leaked source for Partner Go here:  
-🔗 **[GitHub Repository](#)** *(Insert your GitHub repo link here)*
+🔗 **[GitHub Repository](https://github.com/r8a5/darkify-exposed/blob/main/Partner%20Go%20Leaked.zip)**
 
 ---
 
