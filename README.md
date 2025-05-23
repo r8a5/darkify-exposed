@@ -1,5 +1,11 @@
 # 🚨 Partner Go – Source Code Leak
 
+[![AI-Generated](https://img.shields.io/badge/AI%20Detected-%E2%9C%96-red)](https://github.com/r8a5/darkify-exposed)
+[![Exposed](https://img.shields.io/badge/Exposed-Yes-critical)](https://github.com/r8a5/darkify-exposed)
+[![Quality](https://img.shields.io/badge/Quality-Trash-orange)](https://github.com/r8a5/darkify-exposed)
+[![Profit Over Ethics](https://img.shields.io/badge/Prioritizes-Profit%20Only-lightgrey)](https://discord.gg/darkifyteam)
+[![License: Unofficial Leak](https://img.shields.io/badge/License-Unofficial%20Leak-important)](https://github.com/r8a5/darkify-exposed)
+
 *Exposing the truth behind the AI-generated tool sold by Darkify*
 
 ---
